@@ -1,0 +1,8 @@
+[package]
+name = "misci"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = {version  = "0.15.3"  }
+rand = { version = "0.9.0" }
