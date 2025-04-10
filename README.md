@@ -1,6 +1,8 @@
 # Fun Game with Bevy
 
-This is a simple and fun game built using the [Bevy game engine](https://bevyengine.org/). The game is designed as a weekend project to explore game development and keep things interesting outside of work.
+This is a simple and fun game built using the [Bevy game engine](https://bevyengine.org/). The game is designed as a weekend project to explore game development and keep things interesting outside of work. I credit most of this to author here: https://www.youtube.com/watch?v=TQt-v_bFdao&list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd
+
+A must watch video series - I enjoyed it thoroughly. Bevy looks awesome!
 
 ## Gameplay
 
